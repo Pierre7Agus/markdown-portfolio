@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Mis lenguajes de Programacion favoritos:
+
+- Python
+- Java
+- Dart
+- Javascript
